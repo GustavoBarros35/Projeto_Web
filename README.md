@@ -1,2 +1,2 @@
-# DiarioEscolar
+# Diario Escolar
 Aluno: Gustavo Barros      
